@@ -15,7 +15,7 @@
 
 - 📫 How to reach me *ravidholariya700@gmail.com*
 
-- 📄 <a href="/ R Resume.pdf" download >My Resume.. </a>
+- 📄 <a href="/Ravi's Resume1" download >My Resume.. </a>
 
 <hr>
 
